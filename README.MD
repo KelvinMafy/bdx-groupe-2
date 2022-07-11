@@ -34,7 +34,7 @@ services:
     links:
       - postgres
   postgres:
-    image: postgres:9
+    image: postgres:13.5-alpine
     ports:
       - "5432:5432"
     environment:
