@@ -1,4 +1,4 @@
-# Group 4 : Django webapp CICD
+# Group 2 : Django webapp CICD
 
 ## 1- Goal
 The goal of this project is to verify your ability to automate build and deploy containerized applications.
